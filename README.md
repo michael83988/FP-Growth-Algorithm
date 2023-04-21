@@ -1,6 +1,6 @@
 # FP-Growth-Algorithm
 A more efficient way to find frequent itemsets in a large dataset compared to apriori algorithm.
-Here are the functions in this modole, please feel free to use them.
+Here are the functions in this model, please feel free to use them.
 
 ## set_param(sup = 10, con = 0.6):
 Set `min_support` and `confidence` to specific value according to the argument. If no parameter is delivered, then the default value is 10 for  `min_support` and 0.6 for  `confidence`.
